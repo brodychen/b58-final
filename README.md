@@ -1,9 +1,15 @@
 # b58-final
-Final Project For CSCB58 - Tron Lightcycle Game
-Group: 
+Final Project For CSCB58 - Tron Lightcycle Game	
+
+Group:
+
 	Adnan Shahid, 	1002385741
+	
 	Brody Chen, 	  1002262115
+	
 	Salman Sharif,  1002575331
+
+<b>Video was recorded by TA Faisal </b>
 
 Project Description
 Originally, our objective was to recreate the classic snake games, but due to difficulties figuring out how to randomly generate coordinates for food to spawn, we decided to change the project to a 2 player game.
